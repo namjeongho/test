@@ -1,4 +1,4 @@
 <?php
-echo 'Hello man~';
+echo 'Hello girl~';
 echo 'test ok';
 ?>
