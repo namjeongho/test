@@ -1,5 +1,5 @@
 <?php
 
-echo 'login';
+echo 'login begin';
 echo 'login ok';
 echo 'login end';
